@@ -1,4 +1,4 @@
-# Bioinformatics: From Beginner to Expert
+# Bioinforbricklayer: From Beginner to Expert
 
 This directory contains all the learning materials, papers, files, slides and codes for the videos at my Youtube [English channel](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw) and [中文频道](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g), See brief introduciton of the content and the aim of the channel [here](https://www.youtube.com/watch?v=7ON50rHM82U&t=2s). The channel covers the following topics in bioinformatics, aimed at taking you from beginner to expert. 
 
