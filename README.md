@@ -1,4 +1,6 @@
 [![License: GUN](https://img.shields.io/badge/License-GUN-yellow.svg)](https://github.com/MDhewei/ProTiler-1.0.0/blob/master/LISENCE.txt)
+![](https://img.shields.io/badge/language-python/R-orange.svg)
+[![](https://img.shields.io/badge/youtube-bioinforbricklayer-read.svg)](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw)
 
 # Bioinforbricklayer: From Beginner to Expert
 
