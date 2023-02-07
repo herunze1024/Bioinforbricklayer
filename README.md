@@ -10,7 +10,7 @@ This section includes tutorials on the following subtopics:
 
 - [Skills_01: How to work on Linux system with zero knowledge](https://www.youtube.com/watch?v=ACPOOBUpUB8&t=45s)
 
-- [技能篇01:如何零基础玩转Linux系统](https://www.youtube.com/watch?v=iWjDQ0cIgkU&t=24s)
+- [技能篇01:如何零基础玩转Linux操作系统](https://www.youtube.com/watch?v=iWjDQ0cIgkU&t=24s)
 
 - [Skills_02: How to convert among different gene IDs](https://www.youtube.com/watch?v=Oy4Tu6Nn4vk&t=68s)
 
