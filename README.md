@@ -36,6 +36,9 @@ Discover online resources for bioinformatics research, including databases, soft
 
 Each week, this section will feature slides summarizing 5-10 big papers in the field of bioinformatics, along with a detailed summary of one highlighted paper.
 
+- [EP1: Amazing tool for scientific paper reading](https://www.youtube.com/watch?v=8BUPjkTgFd4&t=228s)
+- [第一集：文献阅读神器助力你的科研](https://www.youtube.com/watch?v=i8l8Np3qsJ4&t=7s)
+
 ## 3. Scientific Research
 
 Learn about my experiences in scientific research, including manuscripts writings,project management and other skills.
