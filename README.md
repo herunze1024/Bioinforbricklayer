@@ -13,7 +13,7 @@ This section includes tutorials on the following subtopics:
 - [Skills_02: How to convert among different gene IDs](https://www.youtube.com/watch?v=Oy4Tu6Nn4vk&t=68s)
 - [技能篇02:如何快速批量转换不同基因编号](https://www.youtube.com/watch?v=DDaNRC0rZ98)
 
-### Please subscribe my channel and stay tunned for more updates to come...
+#### Please subscribe my channel and stay tunned for more updates to come...
 
 ### b. Bioinformatics Tools
 
@@ -21,7 +21,8 @@ Explore popular tools used in bioinformatics research, widely used for experimen
 
 - [Tools_01: How to design best sgRNA for protein knockout](https://www.youtube.com/watch?v=i9LJ2pMBLio)
 - [工具篇01: 如何快速设计用于基因/蛋白敲除的最优sgRNA](https://www.youtube.com/watch?v=5tXF8ytBDfI&t=4s)
-### Please subscribe my channel and stay tunned for more updates to come...
+
+#### Please subscribe my channel and stay tunned for more updates to come...
 
 ### c. Bioinformatics Resources
 
@@ -33,7 +34,8 @@ Each week, this section will feature slides summarizing 5-10 big papers in the f
 
 - [EP1: Amazing tool for scientific paper reading](https://www.youtube.com/watch?v=8BUPjkTgFd4&t=228s)
 - [第一集：文献阅读神器助力你的科研](https://www.youtube.com/watch?v=i8l8Np3qsJ4&t=7s)
-### Please subscribe my channel and stay tunned for more updates to come...
+
+#### Please subscribe my channel and stay tunned for more updates to come...
 
 ## 3. Scientific Research
 
