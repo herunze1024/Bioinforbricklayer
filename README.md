@@ -5,7 +5,7 @@
 
 # Bioinformatics: From Beginner to Expert
 
-This directory contains all the learning materials, papers, files, slides and codes for the videos at my Youtube channels: [Bioinforbricklayer](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw) and [生信进阶之路](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g), as well as Bilibili channel [bioinforbricker](https://space.bilibili.com/1605459521?spm_id_from=333.788.0.0). See brief introduciton of the content and the aim of the channel [here](https://www.youtube.com/watch?v=7ON50rHM82U&t=2s). The channel covers the following topics in bioinformatics, aimed at taking you from beginner to expert. 
+This directory contains all the learning materials, papers, files, slides and codes for the videos at my Youtube channels: [Bioinforbricklayer](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw) and [生信进阶之路](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g), as well as Bilibili channel [bioinforbricker](https://space.bilibili.com/1605459521?spm_id_from=333.788.0.0). See brief introduciton of the content and the aim of the channel [here](https://www.youtube.com/watch?v=7ON50rHM82U&t=2s). The channel covers the following topics and subtopics, aimed at taking you from beginner to expert in bioinformatics field. 
 
 ## 1. Bioinformatics Tutorials
 
@@ -13,7 +13,7 @@ This section includes tutorials on the following subtopics:
 
 ### a. Bioinformatics Skills
 
-Share all the skills and experiences I gained in my 10+ years career in bioinformatics field. Please subscribe my channel and stay tunned for more updates to come ...
+Share all the skills and experiences I gained in my 10+ years career in bioinformatics field, helping you quickly get ready for hands-on tasks in bioinformatic analysis and research. Please subscribe my channel and stay tunned for more updates to come ...
 
 - [Skills_01: How to work on Linux system with zero knowledge](https://www.youtube.com/watch?v=ACPOOBUpUB8&t=45s)
 - [技能篇01:如何零基础玩转Linux操作系统](https://www.youtube.com/watch?v=iWjDQ0cIgkU&t=24s)
