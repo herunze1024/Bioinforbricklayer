@@ -1,12 +1,21 @@
 # Bioinformatics: From Beginner to Expert
 
-This directory contains tutorials on various topics in bioinformatics, aimed at taking you from beginner to expert. The following topics are covered:
+This directory contains all the learning materials, papers, files, slides and codes for the videos at my Youtube [English channel](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw) and [Chinese channel](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g),
+
+which covers the following topics in bioinformatics, aimed at taking you from beginner to expert:
 
 ## 1. Bioinformatics Tutorials
 
 This section includes tutorials on the following subtopics:
 
 ### a. Bioinformatics Skills
+
+[skill_01: How to work on Linux system with zero knowledge](https://www.youtube.com/watch?v=ACPOOBUpUB8&t=45s)
+[技能篇01:如何零基础玩转Linux系统](https://www.youtube.com/watch?v=iWjDQ0cIgkU&t=24s)
+[skill_02: How to convert among different gene IDs](https://www.youtube.com/watch?v=Oy4Tu6Nn4vk&t=68s)
+[技能篇02:如何快速批量转换不同基因编号](https://www.youtube.com/watch?v=DDaNRC0rZ98)
+
+Please subscribe my channel and stay tunned for more updates to come...
 
 Learn the fundamentals of bioinformatics, including data analysis, programming, and database management.
 
