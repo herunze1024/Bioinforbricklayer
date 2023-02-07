@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/油管-生信进阶之路-green.svg)](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g)
 [![](https://img.shields.io/badge/Bilibili-bioinforbricker-blue.svg)](https://space.bilibili.com/1605459521?spm_id_from=333.788.0.0)
 
-# Bioinforbricklayer: From Beginner to Expert
+# Bioinformatics: From Beginner to Expert
 
 This directory contains all the learning materials, papers, files, slides and codes for the videos at my Youtube channels: [Bioinforbricklayer](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw) and [生信进阶之路](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g), as well as Bilibili channel [bioinforbricker](https://space.bilibili.com/1605459521?spm_id_from=333.788.0.0). See brief introduciton of the content and the aim of the channel [here](https://www.youtube.com/watch?v=7ON50rHM82U&t=2s). The channel covers the following topics in bioinformatics, aimed at taking you from beginner to expert. 
 
