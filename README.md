@@ -14,7 +14,7 @@ This section includes tutorials on the following subtopics:
 
 - [Skills_02: How to convert among different gene IDs](https://www.youtube.com/watch?v=Oy4Tu6Nn4vk&t=68s)
 
-- [技能篇02:如何快速批量转换不同基因编号?](https://www.youtube.com/watch?v=DDaNRC0rZ98)
+- [技能篇02:如何快速批量转换不同基因编号](https://www.youtube.com/watch?v=DDaNRC0rZ98)
 
 ### Please subscribe my channel and stay tunned for more updates to come...
 
