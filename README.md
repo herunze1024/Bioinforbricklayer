@@ -17,12 +17,10 @@ This section includes tutorials on the following subtopics:
 
 ### b. Bioinformatics Tools
 
-Explore popular tools used in bioinformatics research, widely used for experimental design and data analysis for CRISPR screens, RNAseq, ChIPseq, Perturbseq, etc
+Explore popular tools used in bioinformatics research, widely used for experimental design and data analysis for CRISPR screens, RNAseq, ChIPseq, Perturbseq, etc. Please subscribe my channels and stay tunned for more updates to come...
 
 - [Tools_01: How to design best sgRNA for protein knockout](https://www.youtube.com/watch?v=i9LJ2pMBLio)
 - [工具篇01: 如何快速设计用于基因/蛋白敲除的最优sgRNA](https://www.youtube.com/watch?v=5tXF8ytBDfI&t=4s)
-
-#### Please subscribe my channel and stay tunned for more updates to come...
 
 ### c. Bioinformatics Resources
 
@@ -30,16 +28,14 @@ Discover online resources for bioinformatics research, including databases, soft
 
 ## 2. Papers of the Week
 
-Each week, this section will feature slides summarizing 5-10 big papers in the field of bioinformatics, along with a detailed summary of one highlighted paper.
+Each week, this section will feature slides summarizing 5-10 big papers in the field of bioinformatics, along with a detailed summary of one highlighted paper. Please subscribe my channels and stay tunned for more updates to come...
 
 - [EP1: Amazing tool for scientific paper reading](https://www.youtube.com/watch?v=8BUPjkTgFd4&t=228s)
 - [第一集：文献阅读神器助力你的科研](https://www.youtube.com/watch?v=i8l8Np3qsJ4&t=7s)
 
-#### Please subscribe my channel and stay tunned for more updates to come...
-
 ## 3. Scientific Research
 
-Learn about my experiences in scientific research, including manuscripts writings,project management and other skills.
+Learn about my experiences in scientific research, including manuscripts writings,project management and other skills.Please subscribe my channels and stay tunned for more updates to come...
 
-This directory is your one-stop-shop for all things bioinformatics, so dive in and start learning today!
+## This directory is your one-stop-shop for all things bioinformatics, so dive in and start learning today!
 
