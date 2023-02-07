@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Bioinformatics-Skills/Tools/Resources-orange.svg)
-![](https://img.shields.io/badge/PaperOftheWeek.svg)
+![](https://img.shields.io/badge/PaperOftheWeek-research.svg)
 [![](https://img.shields.io/badge/youtube-bioinforbricklayer-blue.svg)](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw)
 [![](https://img.shields.io/badge/油管-生信进阶之路-green.svg)](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g)
 [![](https://img.shields.io/badge/Bilibili-bioinforbricker-red.svg)](https://space.bilibili.com/1605459521?spm_id_from=333.788.0.0)
