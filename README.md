@@ -37,5 +37,5 @@ Each week, this section will feature slides summarizing 5-10 big papers in the f
 
 Learn about my experiences in scientific research, including manuscripts writings,project management and other skills.Please subscribe my channels and stay tunned for more updates to come...
 
-### This directory is your one-stop-shop for all things bioinformatics, so dive in and start learning today!
+### Again! Welcome to start your bioinformatics journey with me. Eager to learn and happy to share on the way to success.
 
