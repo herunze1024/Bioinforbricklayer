@@ -30,14 +30,22 @@ Share all the skills and experiences I gained in my 10+ years career in bioinfor
 
 ### b. Bioinformatics Tools
 
-Explore popular bioinformatics tools widely used for experimental design and data analysis for CRISPR screens, RNAseq, ChIPseq, Perturbseq, etc. Please subscribe both my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
+Explore popular bioinformatics tools widely used for experimental design and data analysis for CRISPR screens, RNAseq, ChIPseq, Perturbseq, etc. If you are also interested, please consider subscribing both my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
 
 - [Tools_01: How to design best sgRNA for protein knockout](https://www.youtube.com/watch?v=i9LJ2pMBLio)
 - [工具篇01: 如何快速设计用于基因/蛋白敲除的最优sgRNA](https://www.youtube.com/watch?v=5tXF8ytBDfI&t=4s)
+- [Tools_02: How to use ChatGPT for our study and research](https://studio.youtube.com/video/TIThBwv4-wA/edit)
+- [工具篇02: 如何使用 ChatGPT 来助力生信分析和科学研究](https://studio.youtube.com/video/_XxXd0X0ulo/edit)
+- [Tools_03: How to analyze CRISPR high-throughput screen data (part1)](https://studio.youtube.com/video/TIThBwv4-wA/edit)
+- [工具篇03: 如何分析 CRISPR 高通量筛选数据（上）](https://studio.youtube.com/video/DGiGa0-5t_s/edit) 
+- [Tools_04: How to analyze CRISPR high-throughput screen data (part2)](https://studio.youtube.com/video/Oqk6lcX3Dcc/edit)
+- [工具篇04: 如何分析 CRISPR 高通量筛选数据（下）](https://studio.youtube.com/video/pFnl0_4E5Ro/edit)
+- [Tools_05: How to analyze tiling-sgRNA CRISPR screen data](https://studio.youtube.com/video/LK_QwWJw5-U/edit)
+- [工具篇05: 如何分析基于平铺式 sgRNA 设计的CRISPR 高通量筛选数据](https://studio.youtube.com/video/ifluahhDXDw/edit)
 
 ### c. Bioinformatics Resources
 
-Discover online resources for bioinformatics research, including databases, software packages, and educational materials.Please subscribe both my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
+Discover online resources for bioinformatics research, including databases, web servers, and educational materials. Please subscribe both my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
 
 ## 2. Papers of the Week
 
@@ -45,6 +53,8 @@ Each week, this section will feature slides summarizing 5-10 big papers in the f
 
 - [EP1: Amazing tool for scientific paper reading](https://www.youtube.com/watch?v=8BUPjkTgFd4&t=228s)
 - [第一集：文献阅读神器助力你的科研](https://www.youtube.com/watch?v=i8l8Np3qsJ4&t=7s)
+- [EP2: ProGen: An AI-driven model for large-scale protein design](https://studio.youtube.com/video/1GGQcYzRqyA/edit)
+- [第二集：人工智能 ProGen 助力特定功能蛋白质设计](https://www.youtube.com/watch?v=TldrFfNbgjQ)
 
 ## 3. Scientific Research
 
