@@ -1,7 +1,0 @@
-*.fq filter=lfs diff=lfs merge=lfs -text
-BioinformaticsTools/Toolbox02_Analysis[[:space:]]of[[:space:]]CRISPR[[:space:]]screens/MAGeCK/HumanA_lentiGuidePuro.fq filter=lfs diff=lfs merge=lfs -text
-of filter=lfs diff=lfs merge=lfs -text
-CRISPR filter=lfs diff=lfs merge=lfs -text
-screens/MAGeCK/HumanA_lentiGuidePuro.fq filter=lfs diff=lfs merge=lfs -text
-BioinformaticsTools/Toolbox02_Analysis filter=lfs diff=lfs merge=lfs -text
-HumanA_lentiGuidePuro.fq filter=lfs diff=lfs merge=lfs -text
