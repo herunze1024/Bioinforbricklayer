@@ -19,6 +19,8 @@ Share all the skills and experiences I gained in my 10+ years career in bioinfor
 - [技能篇01:如何零基础玩转Linux操作系统](https://www.youtube.com/watch?v=iWjDQ0cIgkU&t=24s)
 - [Skills_02: How to convert among different gene IDs](https://www.youtube.com/watch?v=Oy4Tu6Nn4vk&t=68s)
 - [技能篇02:如何快速批量转换不同基因编号](https://www.youtube.com/watch?v=DDaNRC0rZ98)
+- [Skills_03: How to publish and manage your github repository](https://www.youtube.com/watch?v=Yn7vuxJu4do)
+- [技能篇03:如何发表和管理你的GitHub项目库](https://www.youtube.com/watch?v=sEFmdjXnpDU)
 
 ### b. Bioinformatics Tools
 
