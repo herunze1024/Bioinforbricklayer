@@ -21,6 +21,12 @@ Share all the skills and experiences I gained in my 10+ years career in bioinfor
 - [技能篇02:如何快速批量转换不同基因编号](https://www.youtube.com/watch?v=DDaNRC0rZ98)
 - [Skills_03: How to publish and manage your github repository](https://www.youtube.com/watch?v=Yn7vuxJu4do)
 - [技能篇03:如何发表和管理你的GitHub项目库](https://www.youtube.com/watch?v=sEFmdjXnpDU)
+- [Skills_04: How to plot beautiful protein/DNA sequence logos](https://studio.youtube.com/video/wzxd4VEvtGM/edit)
+- [技能篇04:如何画出漂亮的蛋白质/DNA序列特征图](https://studio.youtube.com/video/VlFDxOWGkQU/edit)
+- [Skills_05: How to play with protein 3D structure in Jupyter notebook](https://studio.youtube.com/video/wzxd4VEvtGM/edit)
+- [技能篇05: 如何在 jupyter notebook 中实现蛋白质三维结构的可视化](https://studio.youtube.com/video/bppN7_Vtbr8/edit)
+- [Skills_06: How to perform gene set enrichment analysis with python](https://studio.youtube.com/video/CxguC-duCZM/edit)
+- [技能篇06: 如何用 python 进行基因集富集分析](https://studio.youtube.com/video/bppN7_Vtbr8/edit)
 
 ### b. Bioinformatics Tools
 
