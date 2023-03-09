@@ -13,7 +13,7 @@ This section includes tutorials on the following subtopics:
 
 ### a. Bioinformatics Skills
 
-Share all the skills and experiences I gained in my 10+ years career in bioinformatics field, helping you quickly get ready for hands-on tasks in bioinformatic analysis and research. If you find the videos useful,please consifer subscribing both my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
+Share all the skills and experiences I gained in my 10+ years career in bioinformatics field, helping you quickly get ready for hands-on tasks in bioinformatic analysis and research. If you find the videos useful,please consifer subscribing my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and/or [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
 
 - [Skills_01: How to work on Linux system with zero knowledge](https://www.youtube.com/watch?v=ACPOOBUpUB8&t=45s)
 - [技能篇01:如何零基础玩转Linux操作系统](https://www.youtube.com/watch?v=iWjDQ0cIgkU&t=24s)
@@ -45,11 +45,11 @@ Explore popular bioinformatics tools widely used for experimental design and dat
 
 ### c. Bioinformatics Resources
 
-Discover online resources for bioinformatics research, including databases, web servers, and educational materials. Please subscribe both my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
+Discover online resources for bioinformatics research, including databases, web servers, and educational materials. Please consider subscribing my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and/or [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
 
 ## 2. Papers of the Week
 
-Each week, this section will feature slides summarizing 5-10 big papers in the field of bioinformatics, along with a detailed summary of one highlighted paper. Please subscribe both my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
+This section will feature slides summarizing important scientific papers in the field of bioinformatics on a biweekly basis. If you are interested, please consider subscribing my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and/or [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
 
 - [EP1: Amazing tool for scientific paper reading](https://www.youtube.com/watch?v=8BUPjkTgFd4&t=228s)
 - [第一集：文献阅读神器助力你的科研](https://www.youtube.com/watch?v=i8l8Np3qsJ4&t=7s)
