@@ -52,9 +52,9 @@ Discover online resources for bioinformatics research, including databases, web 
 
 This section will feature slides summarizing important scientific papers in the field of bioinformatics on a biweekly basis. If you are interested, please consider subscribing my [English](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and/or [Chinese](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) channels for more updates to come...
 
-- [EP1: Amazing tool for scientific paper reading](https://www.youtube.com/watch?v=8BUPjkTgFd4&t=228s)
+- [EP01: Amazing tool for scientific paper reading](https://www.youtube.com/watch?v=8BUPjkTgFd4&t=228s)
 - [第一集：文献阅读神器助力你的科研](https://www.youtube.com/watch?v=i8l8Np3qsJ4&t=7s)
-- [EP2: ProGen: An AI-driven model for large-scale protein design](https://studio.youtube.com/video/1GGQcYzRqyA/edit)
+- [EP02: ProGen: An AI-driven model for large-scale protein design](https://studio.youtube.com/video/1GGQcYzRqyA/edit)
 - [第二集：人工智能 ProGen 助力特定功能蛋白质设计](https://www.youtube.com/watch?v=TldrFfNbgjQ)
 
 ## 3. Scientific Research
