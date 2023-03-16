@@ -56,6 +56,7 @@ This section will feature slides summarizing important scientific papers in the 
 - [第一集：文献阅读神器助力你的科研](https://www.youtube.com/watch?v=i8l8Np3qsJ4&t=7s)
 - [EP02: ProGen: An AI-driven model for large-scale protein design](https://studio.youtube.com/video/1GGQcYzRqyA/edit)
 - [第二集：人工智能 ProGen 助力特定功能蛋白质设计](https://www.youtube.com/watch?v=TldrFfNbgjQ)
+- [第三集：全基因组单细胞 CRISPR 筛选](https://www.youtube.com/watch?v=AfOBRaOFF0w)
 
 ## 3. Scientific Research
 
